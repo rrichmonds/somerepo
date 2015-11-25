@@ -1,4 +1,5 @@
-Initial comment
-Another comment added.
-/n more stuff
-Samples added from A
+Initial comment \n
+Another comment added. \n
+more stuff  \n
+Samples added from A  \n
+Cleaned up by jrsrsamuel  \n
